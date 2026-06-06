@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+python-dotenv
+openai
+gradio>=4.0.0
+langchain-community
+faiss-cpu
+langchain-huggingface
+sentence-transformers
+pypdf
+python-docx
+duckduckgo-search
